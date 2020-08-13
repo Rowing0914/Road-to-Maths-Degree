@@ -1,4 +1,24 @@
 # Road-to-Maths-Degree
+## Notes
+- [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+- [Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+- [Introduction to Real Analysis](http://www.math.louisville.edu/~lee/RealAnalysis/IntroRealAnal.pdf)
+- [Analysis I](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/)
+- [Linear Algebra Done Right](http://linear.axler.net/LADRvideos.html)
+- [Differential Forms](https://math.mit.edu/classes/18.952/2018SP/files/18.952_book.pdf)
+- [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+- [Modern Algebra](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/)
+- [Analysis II](https://ocw.mit.edu/courses/mathematics/18-101-analysis-ii-fall-2005/)
+- [Introduciton to Functional Analysis](https://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/)
+- [Number Theory(I didn't quite like it..)](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/lecture-notes/)
+- Lebesgue Integral: [1](http://williamchen-mathematics.info/lnilifolder/lnili.html) / [2](https://www.math.tamu.edu/~francis.narcowich/m641/m641_notes/lebesgue_integral.pdf)
+- [Geometry and Topology](http://www.claymath.org/library/Ritter/ritter-lectures-on-geomery-and-topology.pdf)
+- [Introduction to Topology](http://people.maths.ox.ac.uk/~joyce/Nairobi2019/Cavalieri-Topology.pdf) from [Lecture](http://people.maths.ox.ac.uk/~joyce/Nairobi2019/IntroDiffGeom.html)  for Differential Geometry
+- [unfinished][18-400 Automata computability complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/lecture-notes/)
+- [Intro to Representation Theory: Easy](https://courses.maths.ox.ac.uk/node/53)
+- [Complex Variables with Applications](https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-spring-2018/index.htm)
+- Random Variables: [1](https://www.stat.pitt.edu/stoffer/tsa4/intro_prob.pdf) / [2](http://www2.econ.iastate.edu/classes/econ500/hallam/documents/RV_Prob_Distributions.pdf)
+
 
 ## TODO
 - [more advanced geometry](http://mphitchman.com/geometry/GCTscreen-Hitchman-March-2018.pdf)
