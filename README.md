@@ -1,5 +1,5 @@
 # Road-to-Maths-Degree
-I hope this helps someone who has the same dream as me to make it come true!
+I hope this helps someone who has the same dream as me to make it come true!  
 ** I'd just like to list all the materials I studied for a Maths degree(I don't know what I'd like to research yet! So I'm broadly exploring various Maths topics.).
 
 ## [Roadmap](https://math.mit.edu/academics/undergrad/roadmaps.php)
