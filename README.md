@@ -3,9 +3,9 @@
 - https://math.mit.edu/academics/undergrad/roadmaps.php
 
 ## Notes
-- [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-- [Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-- [Introduction to Real Analysis](http://www.math.louisville.edu/~lee/RealAnalysis/IntroRealAnal.pdf)
+- [x][Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+- [x][Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+- [x][Introduction to Real Analysis](http://www.math.louisville.edu/~lee/RealAnalysis/IntroRealAnal.pdf)
 - [Analysis I](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/)
 - [Linear Algebra Done Right](http://linear.axler.net/LADRvideos.html)
 - [Differential Forms](https://math.mit.edu/classes/18.952/2018SP/files/18.952_book.pdf)
