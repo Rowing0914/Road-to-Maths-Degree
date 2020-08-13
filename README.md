@@ -1,8 +1,10 @@
 # Road-to-Maths-Degree
-## Roadmap
-- https://math.mit.edu/academics/undergrad/roadmaps.php
+I hope this helps someone who has the same dream as me to make it come true!
+** I'd just like to list all the materials I studied for a Maths degree(I don't know what I'd like to research yet! So I'm broadly exploring various Maths topics.).
 
-## Notes: [All notes in my Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AAABqCY5-xoKZDPyRshrlkoDa?dl=0)
+## [Roadmap](https://math.mit.edu/academics/undergrad/roadmaps.php)
+
+## Notes: [My handwritten notes in Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AAABqCY5-xoKZDPyRshrlkoDa?dl=0)
 - [x] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [x] [Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 - [x] [Introduction to Real Analysis](http://www.math.louisville.edu/~lee/RealAnalysis/IntroRealAnal.pdf)
