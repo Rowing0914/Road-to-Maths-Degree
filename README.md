@@ -2,7 +2,7 @@
 ## Roadmap
 - https://math.mit.edu/academics/undergrad/roadmaps.php
 
-## Notes: [All notes being stored in Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AAABqCY5-xoKZDPyRshrlkoDa?dl=0)
+## Notes: [All notes in my Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AAABqCY5-xoKZDPyRshrlkoDa?dl=0)
 - [x] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [x] [Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 - [x] [Introduction to Real Analysis](http://www.math.louisville.edu/~lee/RealAnalysis/IntroRealAnal.pdf)
