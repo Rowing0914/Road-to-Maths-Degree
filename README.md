@@ -23,8 +23,8 @@ I hope this helps someone who has the same dream as mine to make it come true!
 - [x] [Complex Variables with Applications](https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-spring-2018/index.htm)
 - [x] Random Variables: [1](https://www.stat.pitt.edu/stoffer/tsa4/intro_prob.pdf) / [2](http://www2.econ.iastate.edu/classes/econ500/hallam/documents/RV_Prob_Distributions.pdf)
 - [ ] [unfinished][18-400 Automata computability complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/lecture-notes/)
-- [ ] [Commutative Algebra](https://www.mathematik.uni-kl.de/~gathmann/class/commalg-2013/commalg-2013.pdf) for Algebraic Geometry
-- [ ] [Plane Algebraic Curves](https://www.mathematik.uni-kl.de/~gathmann/class/curves-2018/curves-2018.pdf) for Algebraic Geometry
+- [x] [Commutative Algebra](https://www.mathematik.uni-kl.de/~gathmann/class/commalg-2013/commalg-2013.pdf) for Algebraic Geometry
+- [x] [Plane Algebraic Curves](https://www.mathematik.uni-kl.de/~gathmann/class/curves-2018/curves-2018.pdf) for Algebraic Geometry
 - [ ] [Introduction to Lie algebra](http://www.hcm.uni-bonn.de/en/homepages/prof-dr-nicolas-perrin/teaching/introduction-to-lie-algebras/) for Differential Geometry
 - [ ] [Functions of a Complex Variable](http://people.umass.edu/bvs/605.pdf)
 - [ ] [Algebraic Geometry](https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2019/alggeom-2019.pdf)
