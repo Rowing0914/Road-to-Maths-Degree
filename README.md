@@ -19,7 +19,7 @@ I hope this helps someone who has the same dream as mine to make it come true!
 - [x] Lebesgue Integral: [1](http://williamchen-mathematics.info/lnilifolder/lnili.html) / [2](https://www.math.tamu.edu/~francis.narcowich/m641/m641_notes/lebesgue_integral.pdf)
 - [x] [Geometry and Topology](http://www.claymath.org/library/Ritter/ritter-lectures-on-geomery-and-topology.pdf)
 - [x] [Introduction to Topology](http://people.maths.ox.ac.uk/~joyce/Nairobi2019/Cavalieri-Topology.pdf) from [Lecture](http://people.maths.ox.ac.uk/~joyce/Nairobi2019/IntroDiffGeom.html)  for Differential Geometry
-- [x] [Intro to Representation Theory: Easy](https://courses.maths.ox.ac.uk/node/53)
+- [x] [Short Intro to Representation Theory](https://courses.maths.ox.ac.uk/node/53)
 - [x] [Complex Variables with Applications](https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-spring-2018/index.htm)
 - [x] Random Variables: [1](https://www.stat.pitt.edu/stoffer/tsa4/intro_prob.pdf) / [2](http://www2.econ.iastate.edu/classes/econ500/hallam/documents/RV_Prob_Distributions.pdf)
 - [ ] [unfinished][18-400 Automata computability complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/lecture-notes/)
