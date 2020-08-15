@@ -1,6 +1,4 @@
-### Pure mathematics
-
-#### Algebra
+## Algebra
 
 [Algebra](https://en.wikipedia.org/wiki/Algebra) includes the study of algebraic structures, which are sets and operations defined on these sets satisfying certain axioms. The field of algebra is further divided according to which structure is studied; for instance, group theory concerns an algebraic structure called *group*.
 
@@ -8,7 +6,7 @@
 - [List of abstract algebra topics](https://en.wikipedia.org/wiki/List_of_abstract_algebra_topics)
   - [MIT 18-703 Modern Algebra](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/)
 - [List of algebraic structures](https://en.wikipedia.org/wiki/List_of_algebraic_structures)
-  - **TODO**
+  - Covered in [MIT 18-703 Modern Algebra](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/)
 - [List of Boolean algebra topics](https://en.wikipedia.org/wiki/List_of_Boolean_algebra_topics)
   - **TODO**
 - [List of category theory topics](https://en.wikipedia.org/wiki/List_of_category_theory_topics)
@@ -28,7 +26,7 @@
 - [List of cohomology theories](https://en.wikipedia.org/wiki/List_of_cohomology_theories)
   - **TODO**
 
-#### Calculus and analysis
+## Calculus and analysis
 
 [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) approximation of square wave in five steps.
 
@@ -57,7 +55,7 @@
 - [List of mathematical series](https://en.wikipedia.org/wiki/List_of_mathematical_series)
   - **TODO**
 
-#### Geometry and topology
+## Geometry and topology
 
 [Ford circles](https://en.wikipedia.org/wiki/Ford_circle)—A circle rests upon each fraction in lowest terms. Each touches its neighbours without crossing.
 
@@ -87,7 +85,7 @@
   - [Introduction to Lie algebra](http://www.hcm.uni-bonn.de/en/homepages/prof-dr-nicolas-perrin/teaching/introduction-to-lie-algebras/)
 - [List of mathematical properties of points](https://en.wikipedia.org/wiki/List_of_mathematical_properties_of_points)
 
-#### Combinatorics
+## Combinatorics
 
 [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics) concerns the study of [discrete](https://en.wikipedia.org/wiki/Countable_set) (and usually [finite](https://en.wikipedia.org/wiki/Finite_set)) objects. Aspects include "counting" the objects satisfying certain criteria (*[enumerative combinatorics](https://en.wikipedia.org/wiki/Enumerative_combinatorics)*), deciding when the criteria can be met, and constructing and analyzing objects meeting the criteria (as in *[combinatorial designs](https://en.wikipedia.org/wiki/Combinatorial_design) and [matroid](https://en.wikipedia.org/wiki/Matroid) theory*), finding "largest", "smallest", or "optimal" objects (*[extremal combinatorics](https://en.wikipedia.org/wiki/Extremal_combinatorics)* and *[combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)*), and finding [algebraic](https://en.wikipedia.org/wiki/Algebra) structures these objects may have (*[algebraic combinatorics](https://en.wikipedia.org/wiki/Algebraic_combinatorics)*).
 
@@ -95,7 +93,7 @@
 - [List of graph theory topics](https://en.wikipedia.org/wiki/List_of_graph_theory_topics)
   - [Introduction to Graph Theory](https://www.math.utah.edu/mathcircle/notes/MC_Graph_Theory.pdf)
 
-#### Logic
+## Logic
 
 [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) are illustrations of set theoretical, mathematical or logical relationships.
 
@@ -112,7 +110,7 @@
 - [List of set theory topics](https://en.wikipedia.org/wiki/List_of_set_theory_topics)
   - **TODO**
 
-#### Number theory
+## Number theory
 
 The branch of mathematics that deals with the properties and relationships of numbers, especially the positive integers. [Number theory](https://en.wikipedia.org/wiki/Number_theory) is a branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions. German mathematician Carl Friedrich Gauss said, "Mathematics is the queen of the sciences—and number theory is the queen of mathematics." Number theory also studies the natural, or whole, numbers. One of the central concepts in number theory is that of the [prime number](https://en.wikipedia.org/wiki/Prime_number), and there are many questions about primes that appear simple but whose resolution continues to elude mathematicians.
 
