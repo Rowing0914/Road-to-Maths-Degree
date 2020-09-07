@@ -8,13 +8,13 @@
 - [List of algebraic structures](https://en.wikipedia.org/wiki/List_of_algebraic_structures)
   - Covered in [MIT 18-703 Modern Algebra](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/)
 - [List of Boolean algebra topics](https://en.wikipedia.org/wiki/List_of_Boolean_algebra_topics)
-  - **TODO**
+  - [Boolean Algebra](http://web.csulb.edu/~hill/ee201/Boolean%20Algebra.pdf)
 - [List of category theory topics](https://en.wikipedia.org/wiki/List_of_category_theory_topics)
-  - **TODO**
+  - Category Theory: [1](http://qk206.user.srcf.net/notes/category_theory.pdf) / [2](http://pi.math.cornell.edu/~dmehrle/notes/partiii/cattheory_partiii_notes.pdf)
 - [List of commutative algebra topics](https://en.wikipedia.org/wiki/List_of_commutative_algebra_topics)
   - [Commutative Algebra](https://www.mathematik.uni-kl.de/~gathmann/class/commalg-2013/commalg-2013.pdf)
 - [List of homological algebra topics](https://en.wikipedia.org/wiki/List_of_homological_algebra_topics)
-  - **TODO**
+  - Algebraic Topology: [short1](https://www.dpmms.cam.ac.uk/~or257/teaching/notes/at.pdf) / [short2](http://geometry.ma.ic.ac.uk/acorti/wp-content/uploads/2016/07/AlgTop.pdf) , [Long](https://www.math.uni-potsdam.de/fileadmin/user_upload/Prof-Geometrie/Dokumente/Lehre/Lehrmaterialien/skript-algtopo.pdf)
 - [List of group theory topics](https://en.wikipedia.org/wiki/List_of_group_theory_topics)
   - Included in [MIT 18-703 Modern Algebra](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/), but dig in more!
 - [List of representation theory topics](https://en.wikipedia.org/wiki/List_of_representation_theory_topics)
@@ -24,7 +24,7 @@
 - [List of reciprocity laws](https://en.wikipedia.org/wiki/List_of_reciprocity_laws)
   - **TODO**
 - [List of cohomology theories](https://en.wikipedia.org/wiki/List_of_cohomology_theories)
-  - **TODO**
+  - [Algebraic Geometry](https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2019/alggeom-2019.pdf) or [this](https://www.math.ru.nl/~bmoonen/Lecturenotes/alggeom.pdf)
 
 ## Calculus and analysis
 
@@ -40,7 +40,7 @@
   - [Introduciton to Functional Analysis](https://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/)
 - [List of integration and measure theory topics](https://en.wikipedia.org/wiki/List_of_integration_and_measure_theory_topics)
   - Lebesgue Integral: [1](http://williamchen-mathematics.info/lnilifolder/lnili.html) / [2](https://www.math.tamu.edu/~francis.narcowich/m641/m641_notes/lebesgue_integral.pdf)
-  - **TODO**
+  - Measure Theory: [Short](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) / [Long1](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) , [Long2](https://luiarthur.github.io/assets/ams241/measure/grigoryan.pdf)
 - [List of harmonic analysis(Fourier analysis) topics](https://en.wikipedia.org/wiki/List_of_Fourier_analysis_topics)
   - Partially included in [Complex Variables with Applications](https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-spring-2018/index.htm), but dig in more!
 - [List of multivariable calculus topics](https://en.wikipedia.org/wiki/List_of_multivariable_calculus_topics)
@@ -74,7 +74,7 @@
 - [List of algebraic geometry(algebraic surfaces) topics](https://en.wikipedia.org/wiki/List_of_algebraic_surfaces)
   - [Algebraic Geometry](https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2019/alggeom-2019.pdf)
 - [List of algebraic topology(cohomology theories) topics](https://en.wikipedia.org/wiki/List_of_cohomology_theories)
-  - **TODO**
+  - Algebraic Topology: [short1](https://www.dpmms.cam.ac.uk/~or257/teaching/notes/at.pdf) / [short2](http://geometry.ma.ic.ac.uk/acorti/wp-content/uploads/2016/07/AlgTop.pdf) , [Long](https://www.math.uni-potsdam.de/fileadmin/user_upload/Prof-Geometrie/Dokumente/Lehre/Lehrmaterialien/skript-algtopo.pdf)
 - [List of geometric topology topics](https://en.wikipedia.org/wiki/List_of_geometric_topology_topics)
   - [Geometry and Topology](http://www.claymath.org/library/Ritter/ritter-lectures-on-geomery-and-topology.pdf)
 - [List of knot theory topics](https://en.wikipedia.org/wiki/List_of_knot_theory_topics)
@@ -100,7 +100,7 @@
 [Logic](https://en.wikipedia.org/wiki/Logic) is the foundation which underlies [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic) and the rest of mathematics. It tries to formalise valid reasoning. In particular, it attempts to define what constitutes a proof.
 
 - [List of Boolean algebra topics](https://en.wikipedia.org/wiki/List_of_Boolean_algebra_topics)
-  - **TODO**
+  - [Boolean Algebra](http://web.csulb.edu/~hill/ee201/Boolean%20Algebra.pdf)
 - [List of first-order theories](https://en.wikipedia.org/wiki/List_of_first-order_theories)
   - **TODO**
 - [List of large cardinal properties](https://en.wikipedia.org/wiki/List_of_large_cardinal_properties)
