@@ -1,6 +1,6 @@
 # Road-to-Maths-Degree
 I hope this helps someone who has the same dream as mine to make it come true!  
-** I'd just like to list all the materials I studied for a Maths degree(I don't know what I'd like to research yet! So I'm broadly exploring various Maths topics.). I am following the [roadmap for Maths students@MIT](https://math.mit.edu/academics/undergrad/roadmaps.php)
+** I'm broadly exploring various Maths topics. Also, I am essentially following the [roadmap for Maths students@MIT](https://math.mit.edu/academics/undergrad/roadmaps.php)
 
 ## Notes: [My handwritten notes in Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AAABqCY5-xoKZDPyRshrlkoDa?dl=0)
 ### Algebra
