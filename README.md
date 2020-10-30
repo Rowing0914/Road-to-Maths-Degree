@@ -5,8 +5,8 @@ I hope this helps someone who has the same dream as me to make it come true!
 
 ## Format of the list below
 I have organised all my notes by following the format below;
-- List of <TOPIC_NAME>: A link to Wiki page describing the various research topics in the domain
-  - <NOTE_NAME>: A link to my handwritten note
+- List of <TOPIC_NAME>: A link of Wiki page describing the various research topics in the domain
+  - <NOTE_NAME>: A link of the course I followed(**My handwritten notes are stored in the dropbox below.)
 
 
 ## Notes: [My handwritten notes in Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AACL60mihoLRtG65zku6mNCCa/Maths?dl=0&subfolder_nav_tracking=1)
