@@ -1,6 +1,6 @@
 ## Introduction
 
-- I will summarise the references that I found online regarding tips to get better at proofs
+- I summarised the references that I found online regarding tips to get better at proofs
 
 ## ["Getting better at proofs" on math.stackexchange](https://math.stackexchange.com/questions/7743/getting-better-at-proofs)
 
