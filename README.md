@@ -22,7 +22,7 @@ I have organised all my notes by following the format below;
       - Algebraic geometry
     - Non-commutative rings
       - Representation theory
-  - Field theory: no organisation found
+  - Field theory: http://alpha.math.uga.edu/~pete/FieldTheory.pdf
   - Module theory: no organisation found
   - Represenation theory: no organisation found
 
