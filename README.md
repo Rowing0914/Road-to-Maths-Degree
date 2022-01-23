@@ -8,6 +8,21 @@ I have organised all my notes by following the format below;
 - List of <TOPIC_NAME>: A link of Wiki page describing the various research topics in the domain
   - <NOTE_NAME>: A link of the course I followed(**My handwritten notes are stored in the dropbox below.)
 
+## New organisation of topics
+- Abstract Algebra
+  - Group theory
+    - Finte group theory
+    - Lie theory
+    - Combinatorial and geometric group t
+  - Ring theory
+    - Commutative Rings
+      - Algebraic geometry
+    - Non-commutative rings
+      - Representation theory
+  - Field theory: no organisation found
+  - Module theory: no organisation found
+  - Represenation theory: no organisation found
+
 
 ## Notes: [My handwritten notes in Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AACL60mihoLRtG65zku6mNCCa/Maths?dl=0&subfolder_nav_tracking=1)
 ### Algebra
