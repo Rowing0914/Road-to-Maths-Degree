@@ -11,9 +11,12 @@ I have organised all my notes by following the format below;
 ## New organisation of topics
 - Abstract Algebra
   - Group theory
-    - Finite group theory
+    - Finite group theory: See my BBK's lecture note!
     - Lie theory
+      - https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h
     - Combinatorial and geometric group
+      - http://www.macs.hw.ac.uk/~lc45/Teaching/kggt/Baumslag-book.pdf
+      - https://bicmr.pku.edu.cn/~wyang/ggt/CGTMiller.pdf
   - Ring theory
     - Commutative Rings
       - Algebraic geometry
