@@ -23,8 +23,9 @@ I have organised all my notes by following the format below;
     - Non-commutative rings
       - Representation theory
   - Field theory: http://alpha.math.uga.edu/~pete/FieldTheory.pdf
-  - Module theory: no organisation found
-  - Represenation theory: no organisation found
+    - Galois Theory: https://www.youtube.com/watch?v=ccc4EYeytYo
+  - Module theory: https://www.youtube.com/watch?v=HHyBTlUJyF0&list=PLY2U8CcmALO4HqPsKdghs0JMy0HUL7TLs
+  - Represenation theory: https://www.youtube.com/results?search_query=Represenation+theory+lecture
 
 
 ## Notes: [My handwritten notes in Dropbox](https://www.dropbox.com/sh/mnixi2vh4atrwsu/AACL60mihoLRtG65zku6mNCCa/Maths?dl=0&subfolder_nav_tracking=1)
