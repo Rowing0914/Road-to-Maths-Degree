@@ -13,7 +13,7 @@ I have organised all my notes by following the format below;
   - Group theory
     - Finte group theory
     - Lie theory
-    - Combinatorial and geometric group t
+    - Combinatorial and geometric group
   - Ring theory
     - Commutative Rings
       - Algebraic geometry
