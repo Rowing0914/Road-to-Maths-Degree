@@ -11,7 +11,7 @@ I have organised all my notes by following the format below;
 ## New organisation of topics
 - Abstract Algebra
   - Group theory
-    - Finte group theory
+    - Finite group theory
     - Lie theory
     - Combinatorial and geometric group
   - Ring theory
