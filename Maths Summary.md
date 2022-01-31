@@ -63,3 +63,25 @@
 
 - [Check the reviews of research papers](https://mathscinet.ams.org/mathscinet)
 
+
+## Maths Presentation Tips: [Video](https://www.youtube.com/watch?v=U_LjhPf92-A&list=PLUl4u3cNGP61w7rvtOxX_3LCvfB9RqzQm&index=2&ab_channel=MITOpenCourseWare)
+
+- Tips
+  - Focus on what's interesting and don't try to present everything
+  - Establish the background as well as notation at the beginning
+  - Provide sufficient visual aid
+  - Think about the storyline more carefully!
+- Note
+  - No universal characteristic for audience, some prefers visual aid and others might not
+
+## Maths Research Tips for UG/PG: [Video](https://www.youtube.com/watch?v=rNoeRFC17fQ&list=PLUl4u3cNGP61w7rvtOxX_3LCvfB9RqzQm&index=8&ab_channel=MITOpenCourseWare)
+
+- Find Starting point: Go over textbooks or some papers to find the initial question / toy example
+  - Play with it with some numerical example or rather more ambigious question(eg, "What if OOOO?")
+    - Ex: Pattern of Prime in Reciprocal form
+- Literature Review to figure out what's been done and what might be interesting to drill down more
+  ** At this point, no one knows what's going to be the right direction! Just list the init directions and explore them individually!
+  ** One criterion to see what's interesting is Applicability to other domains
+- Communicate with other ppl by sharing your findings and see how ppl react: Writing / Quick talk / Presentation etc
+- Write up a paper to approach the broad audience
+  - See [the writing workshop of MIT](https://www.youtube.com/watch?v=G7p3lFMmDiQ&list=PLUl4u3cNGP61w7rvtOxX_3LCvfB9RqzQm&index=5) about further tips on writing!
