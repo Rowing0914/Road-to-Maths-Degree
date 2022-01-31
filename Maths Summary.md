@@ -31,7 +31,20 @@
 ## Good blog post of Mathematicians
 
 - [How Does One Do Mathematical Research?](http://www.math.hawaii.edu/~lee/how-to.html)
-  - Very long but one of the most insightful and detailed blog posts
+  - Do homework to learn how to piece together knowledge(def/thrs/corollaries learnt in text)
+
+  - Read the relevant topics in some materialeg, paper/journal/workshop/talk etc to find the questions that you want to study more
+
+  - 2 types of maths questions for research: Closed-ended vs Open-ended
+
+    - Closed-ended: "Is X true?"
+    - Open-ended: "What if OOO?"
+
+  - Note
+
+    - > Good ideas always arise out of some existing line of thought, and it is only after when has put a lot of effort in that one realizes that there is some gradiose general concept  that underlies all one's work.
+      >
+      > Ref: http://www.math.hawaii.edu/~lee/how-to.html
 
 ## Seminars
 
