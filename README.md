@@ -3,6 +3,23 @@ I hope this helps someone who has the same dream as me to make it come true!
 ** I'm broadly exploring various Maths topics. Also, I am essentially following the [roadmap for Maths students@MIT](https://math.mit.edu/academics/undergrad/roadmaps.php)
 
 
+## Existing organisation of Arxiv
+- AG - Algebraic Geometry
+  - Algebraic varieties, stacks, sheaves, schemes, moduli spaces, complex geometry, quantum cohomology
+- AT - Algebraic Topology
+  - Homotopy theory, homological algebra, algebraic treatments of manifolds
+- CT - Category Theory
+  - Enriched categories, topoi, abelian categories, monoidal categories, homological algebra
+- AC - Commutative Algebra
+  - Commutative rings, modules, ideals, homological algebra, computational aspects, invariant theory, connections to algebraic geometry and combinatorics
+- GN - General Topology
+  - Continuum theory, point-set topology, spaces with algebraic structure, foundations, dimension theory, local and global properties
+- GT - Geometric Topology
+  - Manifolds, orbifolds, polyhedra, cell complexes, foliations, geometric structures
+- GR - Group Theory
+  - Finite groups, topological groups, representation theory, cohomology, classification and structure
+
+
 ## Format of the list below
 I have organised all my notes by following the format below;
 - List of <TOPIC_NAME>: A link of Wiki page describing the various research topics in the domain
