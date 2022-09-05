@@ -18,6 +18,18 @@ I hope this helps someone who has the same dream as me to make it come true!
   - Manifolds, orbifolds, polyhedra, cell complexes, foliations, geometric structures
 - GR - Group Theory
   - Finite groups, topological groups, representation theory, cohomology, classification and structure
+- KT - K-Theory and Homology
+  - Algebraic and topological K-theory, relations with topology, commutative algebra, and operator algebras
+- NT - Number Theory
+  - Prime numbers, diophantine equations, analytic number theory, algebraic number theory, arithmetic geometry, Galois theory
+- NA - Numerical Analysis
+  - Numerical algorithms for problems in analysis and algebra, scientific computation
+- OA - Operator Algebras
+  - Algebras of operators on Hilbert space, C^*-algebras, von Neumann algebras, non-commutative geometry
+- RT - Representation Theory
+  - Linear representations of algebras and groups, Lie theory, associative algebras, multilinear algebra
+- RA - Rings and Algebras
+  - Non-commutative rings and algebras, non-associative algebras, universal algebra and lattice theory, linear algebra, semigroups
 
 
 ## Format of the list below
