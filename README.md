@@ -22,8 +22,6 @@ I hope this helps someone who has the same dream as me to make it come true!
   - Algebraic and topological K-theory, relations with topology, commutative algebra, and operator algebras
 - NT - Number Theory
   - Prime numbers, diophantine equations, analytic number theory, algebraic number theory, arithmetic geometry, Galois theory
-- NA - Numerical Analysis
-  - Numerical algorithms for problems in analysis and algebra, scientific computation
 - OA - Operator Algebras
   - Algebras of operators on Hilbert space, C^*-algebras, von Neumann algebras, non-commutative geometry
 - RT - Representation Theory
