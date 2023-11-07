@@ -16,23 +16,6 @@
       >
       > Ref: http://www.math.hawaii.edu/~lee/how-to.html
 
-## How to read maths papers
-
-- [The Three Pass Approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
-
-- [How to skim through a paper to see if it's worth of taking time to read!](https://www.quora.com/How-do-I-read-a-math-research-paper)
-
-  This is the process I use to read a paper, every step is designed to get a little more information about whether the paper contains anything that makes it worth spending my time on, before I actually read the paper itself.
-
-  1) The title - does it look like something interesting?
-  2) The authors - are they people that you know do stuff you're interested in?
-  3) The abstract - are you interested in the results described?
-  4) The references - do they cite papers that you've previously read?
-  5) Statements of theorems - do you understand what the results are?
-  6) Introduction - check for definitions that may not be standard
-  7) Statements of theorems again - do you understand them now you've read the introduction?
-  8) If you get to this stage and you still want to read the paper then actually read it properly.
-
 
 ## Maths Presentation Tips: [Video](https://www.youtube.com/watch?v=U_LjhPf92-A&list=PLUl4u3cNGP61w7rvtOxX_3LCvfB9RqzQm&index=2&ab_channel=MITOpenCourseWare)
 
