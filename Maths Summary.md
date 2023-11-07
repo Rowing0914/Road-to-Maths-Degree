@@ -1,21 +1,3 @@
-## 2018 Fields Medallists
-
-- https://www.dpmms.cam.ac.uk/~cb496/
-- https://people.math.ethz.ch/~afigalli/home
-- https://www.hcm.uni-bonn.de/people/faculty/profile/peter-scholze/
-- http://math.stanford.edu/~akshay/
-
-## Famous Conferences
-
-- [ICM(International Congress of Mathematics)](https://impa.br/icm2018/)
-- [The MIT Talbot Workshop](https://math.mit.edu/events/talbot/index.php?year=2020): workshop for young maths researchers
-- [American Mathematical Society](https://www.ams.org/home/page)
-
-
-## Arxiv papers
-
-- https://arxiv.org/archive/math
-
 ## Good blog post of Mathematicians
 
 - [How Does One Do Mathematical Research?](http://www.math.hawaii.edu/~lee/how-to.html)
