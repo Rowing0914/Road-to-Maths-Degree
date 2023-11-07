@@ -52,11 +52,6 @@
   8) If you get to this stage and you still want to read the paper then actually read it properly.
 
 
-## References
-
-- [Check the reviews of research papers](https://mathscinet.ams.org/mathscinet)
-
-
 ## Maths Presentation Tips: [Video](https://www.youtube.com/watch?v=U_LjhPf92-A&list=PLUl4u3cNGP61w7rvtOxX_3LCvfB9RqzQm&index=2&ab_channel=MITOpenCourseWare)
 
 - Tips
