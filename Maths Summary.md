@@ -34,10 +34,6 @@
       >
       > Ref: http://www.math.hawaii.edu/~lee/how-to.html
 
-## Seminars
-
-- https://www.math-stockholm.se/en/kalender
-
 ## How to read maths papers
 
 - [The Three Pass Approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
