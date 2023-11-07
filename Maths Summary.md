@@ -11,18 +11,6 @@
 - [The MIT Talbot Workshop](https://math.mit.edu/events/talbot/index.php?year=2020): workshop for young maths researchers
 - [American Mathematical Society](https://www.ams.org/home/page)
 
-## Research Topics(Mostly for Master/PhD)
-
-- https://www.mathematics.pitt.edu/research/research-areas
-- https://www.math.su.se/english/education/phd-studies/research-projects/possible-topics-for-phd-theses-in-mathematics-1.129749#Geometry%20and%20topology%20of%20moduli%20spaces
-- https://www.math.su.se/english/research
-- https://iitk.ac.in/math/research-areas-in-mathematics
-- https://math.williams.edu/majors/colloquium-advisors-and-topics/
-- https://uwaterloo.ca/math/sites/ca.math/files/uploads/files/pm-grad-info-session-handout_0.pdf
-- https://www.birmingham.ac.uk/postgraduate/courses/combined/maths/pure-mathematics-mres.aspx#ResearchTab
-- https://kulak.kuleuven.be/nl/onderzoek/Onderzoeksdomeinen/zuivere-wiskunde-en-wiskunde-onderwijs/en/masterthesis#
-- https://www.helsinki.fi/en/admissions/degree-programmes/mathematics-and-statistics-masters-programme/studying/masters-thesis-topics#section-81362
-- http://www.middlebury.edu/academics/math/requirements/seniorthesis/topics
 
 ## Arxiv papers
 
