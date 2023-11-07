@@ -51,10 +51,6 @@
   7) Statements of theorems again - do you understand them now you've read the introduction?
   8) If you get to this stage and you still want to read the paper then actually read it properly.
 
-## How to write maths papers
-
-- https://math.mit.edu/~cohn/Thoughts/advice.html
-- https://terrytao.wordpress.com/advice-on-writing-papers/
 
 ## References
 
